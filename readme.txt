@@ -4,4 +4,3 @@ Try to use a branch to finish work.
 
 
 get graph of fast-forward
-get graph of non ff
